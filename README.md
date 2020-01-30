@@ -1,2 +1,3 @@
 # simple_liner_regression
 simple_liner_regression
+简单的线性回归，用来入门的。并没有用到tf
