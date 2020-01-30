@@ -1,3 +1,3 @@
 # simple_liner_regression
 simple_liner_regression
-简单的线性回归，用来入门的。并没有用到tf
+简单的线性回归，用来入门的。_2的代码并没有使用tensorflow；_3的代码使用tensorflow2.0
